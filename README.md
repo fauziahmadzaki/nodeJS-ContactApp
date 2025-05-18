@@ -17,7 +17,7 @@ Aplikasi ini merupakan program terminal berbasis Node.js untuk manajemen kontak 
    cd nama-repo
 
 2. Command
-   
+```bash
 npm install
 node app.js add --nama="<nama_kontak>" --email="<email(optional)>" --noHP="<noHP>"
 node app.js list
